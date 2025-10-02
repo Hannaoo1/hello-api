@@ -38,3 +38,6 @@ out/
 
 # logs
 *.log
+
+# logs
+*.log
